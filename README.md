@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Assalamu+Alaikum!+👋;+I'm+Md.+Shanid+Sajjatuz+Islam!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Assalamu+Alaikum!+👋;+I'm+Shanid+Sajjatuz+Islam!;" />
 </h1>
 
 <h3 align="center">Passionate Learner | Aspiring MERN Full Stack Developer | Tech enthusiast from Bangladesh 🇧🇩</h3>
