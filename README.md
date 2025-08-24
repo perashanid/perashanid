@@ -1,8 +1,8 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Assalamu+Alaikum!+👋;+I'm+Md.+Affan+Hossain+Rakib!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Assalamu+Alaikum!+👋;+I'm+Md.+Shanid+Sajjatuz+Islam!;" />
 </h1>
 
-<h3 align="center">Passionate Learner | Aspiring MERN Full Stack Developer | Problem Solver from Bangladesh 🇧🇩</h3>
+<h3 align="center">Passionate Learner | Aspiring MERN Full Stack Developer | Tech enthusiast from Bangladesh 🇧🇩</h3>
 
 <br/>
 
@@ -12,7 +12,7 @@
  
  🌱 I'm currently learning **Full Stack Development & Advanced JavaScript**
  
- 👯 I'm looking to collaborate on **Open Source Projects**
+ 👯 I'm looking to collaborate on **Real World Projects**
 
  💬 Ask me about **Python, JavaScript, MERN Stack... or anything [here](https://github.com/AffanHossainRakib/AffanHossainRakib/issues)**
 
@@ -23,7 +23,7 @@
  </div>
  
 <div align="center"> 
-  <a href="mailto:affanhossainrakib@gmail.com" target="_blank">
+  <a href="mailto:shanidsajjatuz@gmail.com.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://linkedin.com" target="_blank">
