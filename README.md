@@ -66,6 +66,7 @@
     <h2>🎯 LeetCode Stats</h2>
     <a href="https://leetcode.com" target="_blank">
         <img src="https://leetcode-stats.vercel.app/api?username=HyEzQ0ySqW&show_icons=true&theme=dark&hide=contribs,prs&count_private=true&include_all_commits=true" alt="LeetCode Stats"/>
+        ![Leetcode Stats](https://leetcard.jacoblin.cool/HyEzQ0ySqW)
     </a>
 </div>
 <hr/>
