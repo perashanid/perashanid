@@ -14,7 +14,7 @@
  
  👯 I'm looking to collaborate on **Real World Projects**
 
- 💬 Ask me about **Python, JavaScript, MERN Stack... or anything [here](https://github.com/perashanid/issues)**
+ 💬 Ask me about **Python, JavaScript, MERN Stack... or anything [here](https://github.com/perashanid/perashanid/issues/1)**
 
  📫 How to reach me **shanidsajjatuz@gmail.com**
 
