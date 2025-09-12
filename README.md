@@ -75,5 +75,5 @@
 </div>
 <br/>
 <hr/>
-<h1>Fins my CV here:</h1>
+<h1>Find my CV here:</h1>
 https://shanid-cv.vercel.app/
