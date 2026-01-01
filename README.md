@@ -47,24 +47,6 @@
   <img src="https://yourinsights.vercel.app/api/insight?username=perashanid" alt="GitHub Insights" />
 </p>
 
-<h2 align="center">📊 GitHub Stats</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=perashanid&theme=react&show_icons=true&hide_border=true&count_private=true" alt=""/>
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=perashanid&theme=react&hide_border=true" alt=""/>
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=perashanid&theme=react&show_icons=true&hide_border=true&layout=compact" alt=""/>
-</div>
-
-<br/>
-<hr/>
-
-<div align="center">
-  <h2>📈 Activity Graph</h2>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=perashanid&bg_color=0d1117&color=5bcdec&line=5bcdec&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" />
-</div>
-<hr/>
-
 <div align="center">
     <h2>🎯 LeetCode Stats</h2>
     <a href="https://leetcode.com" target="_blank">
