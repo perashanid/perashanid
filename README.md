@@ -18,7 +18,6 @@
 
  📫 How to reach me **shanidsajjatuz@gmail.com**
 
- ⚡ Fun fact **I love solving coding challenges and building innovative solutions**
 
  </div>
  
@@ -43,6 +42,10 @@
     <img src="https://skillicons.dev/icons?i=python,c,vscode,github,figma,mysql,nextjs,supabase" /><br>
 </div>
 <br/>
+
+<p align="center">
+  <img src="https://yourinsights.vercel.app/api/insight?username=perashanid" alt="GitHub Insights" />
+</p>
 
 <h2 align="center">📊 GitHub Stats</h2>
 <br>
