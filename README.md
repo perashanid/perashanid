@@ -1,7 +1,5 @@
-<p align="center">
-  <img src="![alone](https://github.com/user-attachments/assets/bc8687db-a422-43cf-b650-30c2f202974f)
-" alt="Header GIF" width="100%"/>
-</p>
+![alone](https://github.com/user-attachments/assets/862f6a8e-6c35-4e53-b26e-cabae8b99f5f)
+
 
 <br/>
 
